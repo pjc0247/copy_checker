@@ -8,7 +8,7 @@ Usage
 
 Options
 ----
-You can specify behavior when `copy_checker` detects unexpected copy operation.
+You can specify behavior when `copy_checker` detects unallowed copy operation.
 * `CC_BREAK`
   * triggers a breakpoint and the program will be stopped immediately.
 * `CC_LOG`
