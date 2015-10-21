@@ -42,3 +42,7 @@ int main() {
 }
 ```
 ![img](img/print_log.png)
+
+Remarks
+----
+* This program needs Visual Studio 2015 or higher.
