@@ -45,4 +45,4 @@ int main() {
 
 Remarks
 ----
-* This program needs Visual Studio 2015 or higher.
+* This program requires Visual Studio 2015 or higher. (Windows only)
