@@ -1,7 +1,7 @@
 copy_finder
 ====
 
-__copy_finder__ can help you to find unexpected copy operation on your C++ code. If an unexpected copy occurred, it will print the callstack before entering the copy constructor.
+__copy_finder__ helps you to find unexpected copy operation in your code. If an unexpected copy occurred, it will print the callstack before entering the copy constructor.
 
 Usage
 ----
